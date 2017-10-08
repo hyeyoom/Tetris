@@ -1,4 +1,4 @@
-package me.blog.justabullet;
+package wiki.neoul;
 
 /**
  * Created by incognito on 16. 12. 09.

@@ -18,3 +18,6 @@ Fun & Simple Original tetris :D
 
 ![on window](http://i.imgur.com/YKPvNqy.png)
 
+- on Mac
+
+![on mack](https://imgur.com/a/zZLJ3)

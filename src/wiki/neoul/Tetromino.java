@@ -1,4 +1,4 @@
-package me.blog.justabullet;
+package wiki.neoul;
 
 import java.util.Random;
 
