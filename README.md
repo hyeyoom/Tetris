@@ -20,4 +20,4 @@ Fun & Simple Original tetris :D
 
 - on Mac
 
-![on mack](https://i.imgur.com/7bT1sdn.png)
+![on mac](https://i.imgur.com/7bT1sdn.png)
